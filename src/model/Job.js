@@ -1,5 +1,5 @@
 const { update, create } = require("../controllers/JobController");
-const Database = require("../db/config");
+const Database = require("../database/config");
 
 module.exports = {
     async get(){
