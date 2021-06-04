@@ -65,6 +65,7 @@
 /* tags styling */
 body {
   background: var(--color-background);
+  overflow-x: hidden;
 }
 
 body,
