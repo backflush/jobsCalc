@@ -57,7 +57,7 @@ To run this project in the development mode, you'll need to have NodeJS that can
 **Cloning the Repository**
 
 ```
-$ git clone 
+$ git clone git@github.com:SouzaWesley/jobsCalc.git
 
 $ cd jobsCalc
 ```
